@@ -1,0 +1,7 @@
+print("My name is Rose")
+print("I am 17 years old")
+print("I live in Thome")
+print("I love baking,taking care of my pet,swimming")
+print("-------------")
+print("*************")
+print("#############")
